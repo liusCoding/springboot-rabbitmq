@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: springboot-mq
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: liushuai
+    password: liushuai
+
